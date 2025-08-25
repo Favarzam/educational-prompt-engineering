@@ -47,6 +47,7 @@ Constructivist-AI Approach:
 
 **Self-Determination Theory Implementation**
 AI tool usage could significantly enhance academic achievement through both shared metacognition and cognitive offloading.
+
 **Autonomy-Supporting Prompts:**
 ```
 "You have three different approaches to solve this problem. Which one feels most natural to your thinking style? I'll support whichever path you choose and help you develop your own problem-solving identity."
