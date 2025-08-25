@@ -1,9 +1,5 @@
 # Research References and Further Reading
 
-*Comprehensive bibliography of 2024-2025 research sources that informed this framework*
-
----
-
 ## Core Educational AI Research
 
 ### Cognitive Load Theory and AI Integration
