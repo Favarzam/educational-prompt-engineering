@@ -1,7 +1,5 @@
 # Research References and Further Reading
 
-## Core Educational AI Research
-
 ### Cognitive Load Theory and AI Integration
 - **Challenging Cognitive Load Theory: The Role of Educational Neuroscience and Artificial Intelligence in Redefining Learning Efficacy**  
   https://www.mdpi.com/2076-3425/15/2/203  
