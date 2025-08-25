@@ -3,7 +3,7 @@
 
 [![Research Status](https://img.shields.io/badge/Research%20Status-2024--2025%20Current-brightgreen)](https://github.com) [![Framework](https://img.shields.io/badge/Framework-Evidence--Based-blue)](https://github.com) [![Applications](https://img.shields.io/badge/Applications-Multi--Modal-purple)](https://github.com)
 
-## Executive Summary
+## Summary
 
 Educational prompt engineering has evolved from ad-hoc chatbot interactions to a sophisticated discipline grounded in learning science, cognitive psychology, and advanced AI architectures. This comprehensive framework synthesizes breakthrough research from 2024-2025, integrating findings from over 100 academic studies, institutional implementations, and industry developments to establish evidence-based methodologies for AI-enhanced learning.
 
@@ -46,8 +46,7 @@ Constructivist-AI Approach:
 ```
 
 **Self-Determination Theory Implementation**
-A major study of 465 preservice teachers demonstrated that AI tool usage significantly enhanced academic achievement through both shared metacognition and cognitive offloading, with path coefficients showing strong positive relationships (β = 0.205 for SMC→AA; β = 0.342 for COL→AA, both p < 0.05).
-
+AI tool usage could significantly enhance academic achievement through both shared metacognition and cognitive offloading.
 **Autonomy-Supporting Prompts:**
 ```
 "You have three different approaches to solve this problem. Which one feels most natural to your thinking style? I'll support whichever path you choose and help you develop your own problem-solving identity."
