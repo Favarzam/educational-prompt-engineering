@@ -22,7 +22,7 @@ Educational prompt engineering has evolved from ad-hoc chatbot interactions to a
 - [Ethical Frameworks and Responsible AI](#ethical-frameworks-and-responsible-ai)
 - [Technical Integration Standards](#technical-integration-standards)
 - [Research-Based Evaluation Metrics](#research-based-evaluation-metrics)
-- [Future Research Directions](#future-research-directions)
+- [Conclusion: The Future of Learning](#conclusion-the-future-of-learning)
 
 ---
 
@@ -841,7 +841,7 @@ Student Outcome Correlations:
 
 ---
 
-## Conclusion: The Future of Learning
+### Conclusion: The Future of Learning
 
 Educational prompt engineering has evolved from basic chatbot interactions to a sophisticated discipline that integrates cutting-edge learning science, advanced AI capabilities, and deep pedagogical understanding. The evidence clearly demonstrates that when implemented thoughtfully with appropriate frameworks, AI-enhanced educational systems can significantly improve learning efficacy, engagement, and accessibility while preserving the essential human elements that make education transformative.
 
